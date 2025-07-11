@@ -1,3 +1,3 @@
 # Go2sh
 
-Hello from SinjulMSBH .. !!!!
+Hello from SinjulMSBH, Go2sh .. !!!!
